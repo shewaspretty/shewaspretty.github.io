@@ -69,7 +69,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: 게임소프트웨어학과(공학계)
+      - degree: 게임소프트웨어학과 (복수 전공)
         university: 홍익대학교
         time: 2017 - 2025.03(졸업 예정)
         details: |
@@ -80,7 +80,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: 조선해양공학과
+      - degree: 조선해양공학과 (주 전공)
         university: 홍익대학교
         time: 2017 - 2025.03(졸업 예정)
         details: |
@@ -246,23 +246,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Kotlin
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Android
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Spring Framework
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C++
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
