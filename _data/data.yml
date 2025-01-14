@@ -33,32 +33,31 @@ sidebar:
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    #languages:
+    #  title: Languages
+    #  info:
+    #    - idiom: English
+    #      level: Native
 
-        - idiom: French
-          level: Professional
+    #    - idiom: French
+    #      level: Professional
 
-        - idiom: Spanish
-          level: Professional
+    #    - idiom: Spanish
+    #      level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Kotlin
           link:
 
-        - item: Snowboarding
+        - item: Java
           link:
 
-        - item: Cooking
+        - item: Android
           link:
-          
-    test:
-      title: Interests
+        
+        - item: Web-Server
 
 career-profile:
     title: Career Profile
@@ -259,7 +258,7 @@ skills:
         level: 80%
 
       - name: Spring Framework
-        level: 70%
+        level: 60%
 
       - name: C++
         level: 70%
