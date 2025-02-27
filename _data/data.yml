@@ -53,6 +53,8 @@ sidebar:
         
         - item: Web-Server
         
+        - item: Spring Framework
+        
         - item: Kotlin
         
         - item: Java
@@ -182,11 +184,11 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: TransNavi
-        link: "github.com/shewaspretty/TransNavi"
+        link: "https://github.com/shewaspretty/TransNavi"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: RandomChat
-        link: "github.com/shewaspretty/RandomChat"
+        link: https://github.com/shewaspretty/RandomChat
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
 oss:
