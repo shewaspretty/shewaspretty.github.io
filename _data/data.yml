@@ -48,16 +48,14 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Kotlin
-          link:
-
-        - item: Java
-          link:
-
         - item: Android
           link:
         
         - item: Web-Server
+        
+        - item: Kotlin
+        
+        - item: Java
 
 career-profile:
     title: Career Profile
@@ -73,7 +71,7 @@ education:
     info:
       - degree: 게임소프트웨어학과 (복수 전공)
         university: 홍익대학교
-        time: 2017 - 2025.03(졸업 예정)
+        time: 2017 - 2025.03
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,7 +82,7 @@ education:
             - Bullet point
       - degree: 조선해양공학과 (주 전공)
         university: 홍익대학교
-        time: 2017 - 2025.03(졸업 예정)
+        time: 2017 - 2025.03
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
