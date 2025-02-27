@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: ngm2097@gmail.com
     phone: 
-    timezone: 
+    timezone: UTC + 09:00
     citizenship:
     website: https://shewaspretty.github.io
     linkedin:
@@ -75,13 +75,7 @@ education:
         university: 홍익대학교
         time: 2017 - 2025.03
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          전공 평점 4.08
       - degree: 조선해양공학과 (주 전공)
         university: 홍익대학교
         time: 2017 - 2025.03
