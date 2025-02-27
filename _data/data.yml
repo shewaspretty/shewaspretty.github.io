@@ -80,13 +80,7 @@ education:
         university: 홍익대학교
         time: 2017 - 2025.03
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 
 #experiences:
 #    title: Experiences
@@ -173,18 +167,15 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
       - title: TransNavi (2023.9 ~ 2023.12)
         link: "https://github.com/shewaspretty/TransNavi"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Android Native, Kotlin\nThis is a test line"
 
       - title: RandomChat (2024.3 ~ 2024.6)
         link: https://github.com/shewaspretty/RandomChat
         tagline: "A responsive website template designed to help web developers/designers market their services."
-        tagline: "testTagLine"
 
 oss:
     title: OSS Contributions
