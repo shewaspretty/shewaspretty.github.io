@@ -102,6 +102,8 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
+          bullet point test
+            - Bullet point Test
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
@@ -144,6 +146,8 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
+            
+              - Bullet point test
 
             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
