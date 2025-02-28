@@ -133,9 +133,9 @@ certifications:
         - name: CV Builder
           start: 2020
           end: 2021
-          organization:  
-          credentialid:  
-          credentialurl:  
+          organization: l
+          credentialid: l
+#          credentialurl:  
           credentialname: Android Native(Kotlin), Spring Framework(Java)
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
